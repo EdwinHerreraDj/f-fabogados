@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /pdf/
+
+Allow: /
+
+# Especificar la ubicación del sitemap
+Sitemap: https://abogadosyasesoresgranada.es/sitemap.xml
+
