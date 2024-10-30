@@ -42,7 +42,7 @@ menu.innerHTML = DOMPurify.sanitize(`
             <div class="col-xl-2 col-lg-2 col-md-7">
                 <div class="menu-logo">
                     <a href="/index.html">
-                        <img src="/assets/img/logo.webp" alt="Logo de abogados y asesores Granada España" width="400" height="100">
+                        <img src="/assets/img/logo.webp" alt="logo del bufete de abogados de granada Robledillo & Herrera" width="400" height="100">
                     </a>
                 </div>
                 <div class="responsive-menu"></div>
