@@ -5,135 +5,120 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+<!-- Página principal -->
 <url>
   <loc>https://abogadosyasesoresgranada.es/</loc>
-  <lastmod>2024-08-21T11:20:55+00:00</lastmod>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
+<!-- Páginas principales -->
 <url>
   <loc>https://abogadosyasesoresgranada.es/contacto.html</loc>
-  <lastmod>2024-08-21T10:21:39+00:00</lastmod>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/sobre-nosotros.html</loc>
-  <lastmod>2024-08-21T10:21:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 <url>
   <loc>https://abogadosyasesoresgranada.es/derecho-administrativo.html</loc>
-  <lastmod>2024-08-21T10:21:39+00:00</lastmod>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-bancarias.html</loc>
-  <lastmod>2024-08-21T10:20:32+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/blog.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-familia.html</loc>
-  <lastmod>2024-08-21T10:20:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-accidentes-trafico.html</loc>
-  <lastmod>2024-08-21T10:20:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-negligencias-medicas.html</loc>
-  <lastmod>2024-08-21T10:20:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-herencias.html</loc>
-  <lastmod>2024-08-21T10:20:30+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/blog-compra-venta.html</loc>
-  <lastmod>2024-08-21T10:20:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/blog-subvenciones.html</loc>
-  <lastmod>2024-08-21T10:20:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/blog-conflicto-vecinos.html</loc>
-  <lastmod>2024-08-21T10:20:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
+<!-- Artículos -->
 <url>
   <loc>https://abogadosyasesoresgranada.es/articulos/abogado-civil.html</loc>
-  <lastmod>2024-08-21T10:20:26+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/abogado-penalista-granada.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-compra-venta.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-conflicto-vecinos.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-derechos-consumidor.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-herencias.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-subvenciones.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/blog-testamento.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
 <url>
   <loc>https://abogadosyasesoresgranada.es/articulos/delitos-contra-patrimonio.html</loc>
-  <lastmod>2024-08-21T10:20:26+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-penal.html</loc>
-  <lastmod>2024-08-21T10:20:28+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/delitos-contra-persona.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-laboral.html</loc>
-  <lastmod>2024-08-21T10:20:29+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/delitos-salud-publica.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-mercantil.html</loc>
-  <lastmod>2024-08-21T10:20:30+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/delitos-seguridad-vial.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-inmobiliario.html</loc>
-  <lastmod>2024-08-21T10:20:31+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-familia.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-internacional.html</loc>
-  <lastmod>2024-08-21T10:20:32+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-herencias.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-tributario.html</loc>
-  <lastmod>2024-08-21T10:20:33+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-accidentes-trafico.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-ambiental.html</loc>
-  <lastmod>2024-08-21T10:20:34+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-bancarias.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
-
 <url>
-  <loc>https://abogadosyasesoresgranada.es/articulos/derecho-deportivo.html</loc>
-  <lastmod>2024-08-21T10:20:35+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-deudas-morosas.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abogadosyasesoresgranada.es/articulos/reclamaciones-negligencias-medicas.html</loc>
+  <lastmod>2024-11-22T10:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 
 </urlset>

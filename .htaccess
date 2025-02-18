@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Redirigir index.html a la raíz
+RewriteCond %{THE_REQUEST} /index\.html [NC]
+RewriteRule ^(.*)index\.html$ /$1 [L,R=301]
+
+# Redirigir "www" a sin "www"
+RewriteCond %{HTTP_HOST} ^www\.abogadosyasesoresgranada\.es [NC]
+RewriteRule ^(.*)$ https://abogadosyasesoresgranada.es/$1 [L,R=301]
+</IfModule>
+

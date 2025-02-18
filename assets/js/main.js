@@ -52,7 +52,7 @@ menu.innerHTML = DOMPurify.sanitize(`
                     <ul id="mobilemenu">
                         <li><a href="/index.html">Inicio</a>
                         </li>
-                        <li class="menu-icon"><a href="/articulos/abogado-penalista.html">Abogado Penalista <span style="display: inline-block;">▼</span></a>
+                        <li class="menu-icon"><a href="/articulos/abogado-penalista-granada.html">Abogado Penalista <span style="display: inline-block;">▼</span></a>
                             <ul class="submenu">
                                 <li><a href="/articulos/delitos-contra-patrimonio.html"><i
                                             class="flaticon-double-right-arrows-angles"></i>Delitos contra el
@@ -177,7 +177,7 @@ footer.innerHTML = DOMPurify.sanitize(`
                 <div class="footer-widget">
                     <h3>Despacho de Abogados Líder en Granada</h3>
                     <div class="widget about-info">
-                        <p>Somos un despacho líder en Granada, ofreciendo asesoramiento jurídico de alta calidad.
+                        <p>Somos un despacho de abogados en Granada líder, ofreciendo asesoramiento jurídico de alta calidad.
                             Nuestros abogados experimentados proporcionan un servicio transparente, rápido y eficaz.
                         </p>
                     </div>
@@ -199,16 +199,10 @@ footer.innerHTML = DOMPurify.sanitize(`
                     <div class="widget blog-widget">
                         <ul>
                             <li>
-                                <a href="/articulos/blog-compra-venta.html">
-                                    <img src="/assets/img/fb-1.png" alt="Abogados y asesores Granada Andalucia">
-                                </a>
                                 <h4><a href="/articulos/blog-compra-venta.html">Guía para la compra y venta</a></h4>
                                 <i class="flaticon-date"></i><span>17 Abr 2024</span>
                             </li>
                             <li>
-                                <a href="/articulos/blog-subvenciones.html">
-                                    <img src="/assets/img/fb-2.png" alt="">
-                                </a>
                                 <h4><a href="/articulos/blog-subvenciones.html">Cómo solicitar ayudas y subvenciones</a></h4>
                                 <i class="flaticon-date"></i><span>10 Abril 2024</span>
                             </li>
@@ -223,7 +217,7 @@ footer.innerHTML = DOMPurify.sanitize(`
                         <ul>
                             <li><a href="index.html"><i class="flaticon-double-right-arrows-angles"></i> Inicio</a>
                             </li>
-                            <li><a href="/articulos/abogado-penalista.html"><i class="flaticon-double-right-arrows-angles"></i> Abogado Penalista</a>
+                            <li><a href="/articulos/abogado-penalista-granada.html"><i class="flaticon-double-right-arrows-angles"></i> Abogado Penalista</a>
                             </li>
                             <li><a href="/articulos/reclamaciones-deudas-morosas.html"><i class="flaticon-double-right-arrows-angles"></i> Reclamaciones</a>
                             </li>

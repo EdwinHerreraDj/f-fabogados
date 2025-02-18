@@ -931,10 +931,17 @@ Blog  Css
 }
 
 .blog-content li {
-	display: inline-block;
 	margin-right: 15px;
 	font-size: 19px;
 	margin-bottom: 30px;
+}
+.blog-content h3{
+	font-size: 24px;
+}
+
+.blog-content h2 {
+	font-size: 28px;
+	line-height: 1.4;
 }
 
 .blog-content li i::before,
@@ -1189,7 +1196,6 @@ Footer CSS
 
 .blog-widget ul li {
 	position: relative;
-	padding-left: 110px;
 	margin-bottom: 25px;
 	overflow: hidden;
 }
